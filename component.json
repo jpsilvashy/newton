@@ -1,0 +1,8 @@
+{
+  "name": "newton",
+  "version": "0.0.0",
+  "main": [""],
+  "dependencies": {
+    "jquery": "~1.8.0"
+  }
+}
