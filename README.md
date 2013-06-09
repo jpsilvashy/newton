@@ -1,3 +1,7 @@
+## Newton
+
+Newton is a lean, simple, and tiny front-end framework.
+
 ## Versioning
 
 Releases will be numbered with the following format:
@@ -9,7 +13,7 @@ For more information on SemVer, please visit [http://semver.org/](http://semver.
 
 ## Compiling CSS and JavaScript
 
-Bootstrap includes a [makefile](Makefile) with convenient methods for working with the framework. Before getting started, be sure to install [the necessary local dependencies](package.json):
+Newton includes a [makefile](Makefile) with convenient methods for working with the framework. Before getting started, be sure to install [the necessary local dependencies](package.json):
 
 ```
 $ npm install
